@@ -22,11 +22,13 @@ This is a simple implementation of the classic game Tic Tac Toe built with React
    git clone <your-repo-url>
 
 2. Install dependencies:
+    ```bash
     cd <project-directory>
     npm install
     npm install --save typescript
 
 3. Start the development server:
+    ```bash
     npm start
 
 ## Usage
