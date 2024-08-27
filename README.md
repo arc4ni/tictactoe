@@ -1,6 +1,6 @@
 # React Tic Tac Toe
 
-This is a simple implementation of the classic game Tic Tac Toe built with React. Players can enjoy a game of Tic Tac Toe where they can compete against each other. The game also tracks the number of wins for each player.
+This is a simple implementation of the classic game Tic Tac Toe built with React. Players can enjoy a game of Tic Tac Toe where they can compete against each other.
 
 ## Features
 
